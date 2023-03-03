@@ -68,22 +68,26 @@ def Handle() :
     global iki 
     try :
         video = Yt_data.iloc[iki]['Link']
+        if type(video)!=str :
+            iki+=1
+            Handle()
         iki+=1
     except :
-        video = []
+        video = 'e'
+
     return video 
 
 
 def ScrapComments() :
     global Yt_data
-    
+    global nmbScroll
     video = Handle()
     options = Options()
-    ##options.add_argument('-headless')
+    options.add_argument('-headless')
     driver = webdriver.Firefox(options=options)
 
-    while (video) :
-        print('Scrapping the video : ',video)
+    while (len(video)>2) :
+        print('servii ',video)
         driver.get(video)
 
         Bitina(driver)
@@ -91,7 +95,7 @@ def ScrapComments() :
 
         time.sleep(3)
         comz = []
-        for j in range(50) :
+        for j in range(nmbScroll) :
             driver.execute_script("window.scrollTo(0,1000000)")
             time.sleep(1)
         comments = driver.find_element(By.ID,"comments")
@@ -99,21 +103,21 @@ def ScrapComments() :
         for a in coms :
             comz.append(a.text)
 
-        ## insert comz in df 
-        ##df.loc[df['Link'] == Video]
-
-        print('HA CHHAL MN COMM ',len(comz))
-
+        Yt_data.at[iki,'Comments']=comz
+        print('Finished scrapping video : ',video)
         video = Handle()
+
     driver.quit()
 
 
 
 
 
-def ThreadYoutube(NumbVidz) :
+def ThreadYoutube(NumbVidz,nbSc) :
     threads = []
     global Yt_data 
+    global nmbScroll
+    nmbScroll=nbSc
     try :
         Yt_data = GetTrendingVideos()
         Yt_data = Yt_data[:NumbVidz]
@@ -132,7 +136,14 @@ def ThreadYoutube(NumbVidz) :
         print('An error occured launching th threads.')
         print('The error says : ',e)
 
+    return Yt_data 
 
+
+
+Yt_data = ThreadYoutube(4,4)
+
+
+print(Yt_data.head(5))
 
 
 

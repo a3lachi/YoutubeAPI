@@ -271,3 +271,732 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 [Child 25061, MediaDecoderStateMachine #1] WARNING: Decoder=121743000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
 1677826035866	Marionette	INFO	Stopped listening on port 63034
 JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+1677826258617	geckodriver	INFO	Listening on 127.0.0.1:63092
+1677826259135	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileXbtb9p"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677826259579	Marionette	INFO	Marionette enabled
+1677826259652	Marionette	INFO	Listening on port 63100
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63100
+WebDriver BiDi listening on ws://127.0.0.1:63093
+1677826259968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileXbtb9p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63093/devtools/browser/2baa182b-59cd-4e38-ae84-354fed17dbd7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+1677826265610	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-03T06:51:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677826270739	Marionette	INFO	Stopped listening on port 63100
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+1677826290855	geckodriver	INFO	Listening on 127.0.0.1:63160
+1677826291376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile1UlaBm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677826291719	Marionette	INFO	Marionette enabled
+1677826291829	Marionette	INFO	Listening on port 63168
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63168
+WebDriver BiDi listening on ws://127.0.0.1:63161
+1677826292091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile1UlaBm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63161/devtools/browser/9bc1e9ee-d520-4fc8-be64-269b41783850
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+1677826297177	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-03T06:51:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:51:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677826298847	Marionette	INFO	Stopped listening on port 63168
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+1677826452166	geckodriver	INFO	Listening on 127.0.0.1:63223
+1677826452687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileuFL2UO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677826453169	Marionette	INFO	Marionette enabled
+1677826453245	Marionette	INFO	Listening on port 63231
+Read port: 63231
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63224
+1677826453517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileuFL2UO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63224/devtools/browser/86ae6243-871e-4d29-ae55-2eec1e84124a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+1677826458936	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-03T06:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:54:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677826463871	Marionette	INFO	Stopped listening on port 63231
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+1677827848666	geckodriver	INFO	Listening on 127.0.0.1:63293
+1677827849186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilelk5huo"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677827849671	Marionette	INFO	Marionette enabled
+1677827849745	Marionette	INFO	Listening on port 63301
+Read port: 63301
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63294
+1677827850258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilelk5huo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63294/devtools/browser/4d4639dd-315c-4f31-ae2a-c4cd72d243f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:17:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677827952883	geckodriver	INFO	Listening on 127.0.0.1:63353
+1677827952892	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilel6GAwV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677827953220	Marionette	INFO	Marionette enabled
+1677827953343	Marionette	INFO	Listening on port 63359
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63359
+WebDriver BiDi listening on ws://127.0.0.1:63354
+1677827953607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilel6GAwV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63354/devtools/browser/17c1c6e5-ef54-4006-af7c-53f7322cd4ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:19:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677827963114	Marionette	INFO	Stopped listening on port 63359
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677827963935	geckodriver	INFO	Listening on 127.0.0.1:63414
+1677827964455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileHZa9EC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677827964788	Marionette	INFO	Marionette enabled
+1677827964904	Marionette	INFO	Listening on port 63422
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63422
+WebDriver BiDi listening on ws://127.0.0.1:63415
+1677827965168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileHZa9EC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63415/devtools/browser/25a1755e-2c97-4255-af55-3d7169a5f24b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:19:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677827974175	Marionette	INFO	Stopped listening on port 63422
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677827974907	geckodriver	INFO	Listening on 127.0.0.1:63475
+1677827974909	geckodriver	INFO	Listening on 127.0.0.1:63478
+1677827974912	geckodriver	INFO	Listening on 127.0.0.1:63477
+1677827974915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileO5Q49v"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677827975219	Marionette	INFO	Marionette enabled
+1677827975346	Marionette	INFO	Listening on port 63492
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677827975420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileeJUMZp"
+1677827975420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileOp1ACK"
+Read port: 63492
+*** You are running in headless mode.
+*** You are running in headless mode.
+1677827975466	geckodriver	INFO	Listening on 127.0.0.1:63479
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+WebDriver BiDi listening on ws://127.0.0.1:63476
+1677827975660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677827975787	Marionette	INFO	Marionette enabled
+1677827975793	Marionette	INFO	Marionette enabled
+1677827975851	Marionette	INFO	Listening on port 63507
+1677827975869	Marionette	INFO	Listening on port 63508
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63508
+Read port: 63507
+1677827975975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileABtbt5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileO5Q49v/search.json.mozlz4", (void 0)))
+1677827976397	Marionette	INFO	Marionette enabled
+1677827976488	Marionette	INFO	Listening on port 63518
+WebDriver BiDi listening on ws://127.0.0.1:63480
+WebDriver BiDi listening on ws://127.0.0.1:63481
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677827976579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Read port: 63518
+1677827976627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63476/devtools/browser/0429bb4d-bdcc-48a6-a43d-774b002dbb2a
+WebDriver BiDi listening on ws://127.0.0.1:63482
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileeJUMZp/search.json.mozlz4", (void 0)))
+1677827977407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileOp1ACK/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileABtbt5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63480/devtools/browser/230e459e-49e2-4366-9f90-4db89952b8a9
+DevTools listening on ws://127.0.0.1:63481/devtools/browser/84a94e43-f534-4575-96a8-0b92474133ae
+DevTools listening on ws://127.0.0.1:63482/devtools/browser/f8cbb253-508b-42e4-bb6b-f6b42d735257
+[2023-03-03T07:19:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 995 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:19:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 841 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:19:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:19:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3093 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3975 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5986 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3607 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677828049016	geckodriver	INFO	Listening on 127.0.0.1:63752
+1677828049025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileuZL9rS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828049346	Marionette	INFO	Marionette enabled
+1677828049401	Marionette	INFO	Listening on port 63758
+Read port: 63758
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63753
+1677828049748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileuZL9rS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63753/devtools/browser/d0bbc714-262b-4abc-83ce-d378ad0aa445
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:20:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:20:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:20:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:20:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677828059198	Marionette	INFO	Stopped listening on port 63758
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677828060093	geckodriver	INFO	Listening on 127.0.0.1:63816
+1677828060094	geckodriver	INFO	Listening on 127.0.0.1:63814
+1677828060096	geckodriver	INFO	Listening on 127.0.0.1:63818
+1677828060616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilefaJvVj"
+1677828060616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilePz53FT"
+1677828060617	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofiletucWKt"
+1677828060625	geckodriver	INFO	Listening on 127.0.0.1:63817
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828061080	Marionette	INFO	Marionette enabled
+1677828061084	Marionette	INFO	Marionette enabled
+1677828061086	Marionette	INFO	Marionette enabled
+1677828061137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilenbJM38"
+1677828061177	Marionette	INFO	Listening on port 63847
+1677828061196	Marionette	INFO	Listening on port 63848
+1677828061203	Marionette	INFO	Listening on port 63849
+Read port: 63849
+Read port: 63847
+Read port: 63848
+*** You are running in headless mode.
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828061602	Marionette	INFO	Marionette enabled
+1677828061665	Marionette	INFO	Listening on port 63853
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63853
+WebDriver BiDi listening on ws://127.0.0.1:63820
+WebDriver BiDi listening on ws://127.0.0.1:63819
+WebDriver BiDi listening on ws://127.0.0.1:63815
+1677828061858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677828061914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677828061949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:63821
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilefaJvVj/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofiletucWKt/search.json.mozlz4", (void 0)))
+1677828062518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilePz53FT/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilenbJM38/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63819/devtools/browser/f69f7a06-4eb2-4534-ae0f-c145ad81bf3f
+DevTools listening on ws://127.0.0.1:63815/devtools/browser/c65dbf89-a04f-49d3-9738-0813409668fe
+DevTools listening on ws://127.0.0.1:63820/devtools/browser/de77d304-13a4-4030-b21a-b727f5dd4ead
+DevTools listening on ws://127.0.0.1:63821/devtools/browser/d4fbe816-85ae-448e-b928-082897d68faa
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 336 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:21:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6288 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:21:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6476 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5128 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6354 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677828464981	geckodriver	INFO	Listening on 127.0.0.1:64189
+1677828465500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilelJWIc8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828465846	Marionette	INFO	Marionette enabled
+1677828474480	geckodriver	INFO	Listening on 127.0.0.1:64200
+1677828474489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilerQT9pH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828474817	Marionette	INFO	Marionette enabled
+1677828474874	Marionette	INFO	Listening on port 64206
+Read port: 64206
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64201
+1677828475352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilerQT9pH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64201/devtools/browser/6ccc711d-fd23-4629-a4de-1758195ebd03
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:28:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677828484955	Marionette	INFO	Stopped listening on port 64206
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677828485923	geckodriver	INFO	Listening on 127.0.0.1:64266
+1677828485927	geckodriver	INFO	Listening on 127.0.0.1:64265
+1677828485930	geckodriver	INFO	Listening on 127.0.0.1:64271
+1677828485933	geckodriver	INFO	Listening on 127.0.0.1:64267
+1677828485938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilevkPvNP"
+1677828485938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilePkMKpp"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828486313	Marionette	INFO	Marionette enabled
+1677828486316	Marionette	INFO	Marionette enabled
+1677828486387	Marionette	INFO	Listening on port 64291
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677828486443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileiLZPb1"
+1677828486445	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileofxxOM"
+Read port: 64291
+1677828486499	Marionette	INFO	Listening on port 64301
+*** You are running in headless mode.
+*** You are running in headless mode.
+Read port: 64301
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+WebDriver BiDi listening on ws://127.0.0.1:64268
+1677828486907	Marionette	INFO	Marionette enabled
+1677828486910	Marionette	INFO	Marionette enabled
+1677828486920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677828486993	Marionette	INFO	Listening on port 64305
+1677828487004	Marionette	INFO	Listening on port 64306
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64305
+Read port: 64306
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64269
+1677828487195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilevkPvNP/search.json.mozlz4", (void 0)))
+WebDriver BiDi listening on ws://127.0.0.1:64272
+WebDriver BiDi listening on ws://127.0.0.1:64270
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1677828487772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677828487772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilePkMKpp/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64268/devtools/browser/2d0bd969-8c7e-4563-9baf-f07a89e397eb
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileofxxOM/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileiLZPb1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64269/devtools/browser/7b492d1b-c769-4c86-a9c8-98a18f805985
+DevTools listening on ws://127.0.0.1:64270/devtools/browser/b6065484-eb3b-4383-80e4-b4ba838eef69
+DevTools listening on ws://127.0.0.1:64272/devtools/browser/717c027a-5f0f-40ef-a817-b6b6d1937f35
+[2023-03-03T07:28:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1509 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:28:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:28:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:28:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:28:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1066 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5911 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 577 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3158 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677828647494	geckodriver	INFO	Listening on 127.0.0.1:64555
+1677828648015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilePbs8Dh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828648381	Marionette	INFO	Marionette enabled
+1677828648505	Marionette	INFO	Listening on port 64563
+Read port: 64563
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64556
+1677828648769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilePbs8Dh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64556/devtools/browser/99c4b91e-835e-4897-8280-6b4d53e163f3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:30:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:30:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:30:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:30:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677828658155	Marionette	INFO	Stopped listening on port 64563
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677828659148	geckodriver	INFO	Listening on 127.0.0.1:64619
+1677828659386	geckodriver	INFO	Listening on 127.0.0.1:64620
+1677828659390	geckodriver	INFO	Listening on 127.0.0.1:64618
+1677828659394	geckodriver	INFO	Listening on 127.0.0.1:64623
+1677828659398	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilep6gSoV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828659651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofiletGCBBx"
+*** You are running in headless mode.
+1677828659764	Marionette	INFO	Marionette enabled
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828659902	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilezPdC1q"
+1677828659902	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilegIQNC5"
+1677828659924	Marionette	INFO	Listening on port 64651
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64651
+1677828660131	Marionette	INFO	Marionette enabled
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828660317	Marionette	INFO	Listening on port 64653
+WebDriver BiDi listening on ws://127.0.0.1:64622
+Read port: 64653
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677828660409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677828660463	Marionette	INFO	Marionette enabled
+1677828660472	Marionette	INFO	Marionette enabled
+1677828660659	Marionette	INFO	Listening on port 64656
+1677828660663	Marionette	INFO	Listening on port 64657
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64656
+Read port: 64657
+WebDriver BiDi listening on ws://127.0.0.1:64624
+1677828660764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+WebDriver BiDi listening on ws://127.0.0.1:64625
+WebDriver BiDi listening on ws://127.0.0.1:64621
+1677828661097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677828661114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilep6gSoV/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofiletGCBBx/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilegIQNC5/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilezPdC1q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64622/devtools/browser/b7c52b2f-6a58-4fdd-b0a8-f115259dbee1
+DevTools listening on ws://127.0.0.1:64624/devtools/browser/586bdf92-ac50-4d91-a767-cf6ad5848db9
+DevTools listening on ws://127.0.0.1:64625/devtools/browser/4ebf6119-813b-44d9-81cb-e635441ffebe
+DevTools listening on ws://127.0.0.1:64621/devtools/browser/38a17eaf-e875-4a9c-9373-dab61e19a362
+[2023-03-03T07:31:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2784 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:31:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4368 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:31:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3140 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:31:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:31:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7537 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5937 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3006 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677828793961	geckodriver	INFO	Listening on 127.0.0.1:64892
+1677828794483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEDoxwV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828794872	Marionette	INFO	Marionette enabled
+1677828795015	Marionette	INFO	Listening on port 64900
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64900
+WebDriver BiDi listening on ws://127.0.0.1:64893
+1677828795292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEDoxwV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64893/devtools/browser/41d68fd7-390b-4921-9e13-e4e7df0fb8e9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:33:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677828804816	Marionette	INFO	Stopped listening on port 64900
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677828805839	geckodriver	INFO	Listening on 127.0.0.1:64959
+1677828805842	geckodriver	INFO	Listening on 127.0.0.1:64958
+1677828805846	geckodriver	INFO	Listening on 127.0.0.1:64957
+1677828805853	geckodriver	INFO	Listening on 127.0.0.1:64956
+1677828805857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileR3DR1k"
+1677828805857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileATEIgK"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828806240	Marionette	INFO	Marionette enabled
+1677828806244	Marionette	INFO	Marionette enabled
+1677828806317	Marionette	INFO	Listening on port 64976
+Read port: 64976
+1677828806364	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile949uCv"
+1677828806364	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileLEEzf9"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677828806428	Marionette	INFO	Listening on port 64986
+*** You are running in headless mode.
+*** You are running in headless mode.
+Read port: 64986
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+WebDriver BiDi listening on ws://127.0.0.1:64961
+1677828806863	Marionette	INFO	Marionette enabled
+1677828806863	Marionette	INFO	Marionette enabled
+1677828806886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677828806947	Marionette	INFO	Listening on port 64988
+Read port: 64988
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64963
+1677828807115	Marionette	INFO	Listening on port 64991
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677828807170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Read port: 64991
+WebDriver BiDi listening on ws://127.0.0.1:64962
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1677828807575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:64960
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileR3DR1k/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1677828807710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileATEIgK/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileLEEzf9/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64961/devtools/browser/016aa84e-012e-4375-8dba-08f524e7e4e5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile949uCv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64963/devtools/browser/81ac3c11-2075-4402-b2c6-0d1daf63483b
+DevTools listening on ws://127.0.0.1:64962/devtools/browser/837f2861-a7ad-4159-9105-553270cee938
+DevTools listening on ws://127.0.0.1:64960/devtools/browser/1cb11c42-ca05-4251-9b2d-f34ac502adc1
+[2023-03-03T07:33:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2779 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:33:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4726 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:33:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:33:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4381 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7766 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7044 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677828967348	geckodriver	INFO	Listening on 127.0.0.1:65253
+1677828967863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileROYLdd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828968318	Marionette	INFO	Marionette enabled
+1677828968453	Marionette	INFO	Listening on port 65261
+Read port: 65261
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:65254
+1677828968747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileROYLdd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65254/devtools/browser/22840134-5ff4-4b6d-8de4-00e34a46b08a
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
