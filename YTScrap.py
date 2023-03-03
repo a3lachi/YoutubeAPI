@@ -142,6 +142,31 @@ def ThreadYoutube(NumbVidz,nbScroll) :
 
 
 
+def ScrapUrl(url,nmbScroll) :
+    options = Options()
+    options.add_argument('-headless')
+    driver = webdriver.Firefox(options=options)
+    driver.get(url)
+
+    Bitina(driver)
+    Bitina2(driver)
+
+    time.sleep(3)
+    comz = []
+    for j in range(nmbScroll) :
+        driver.execute_script("window.scrollTo(0,1000000)")
+        time.sleep(1)
+    comments = driver.find_element(By.ID,"comments")
+    coms = comments.find_elements(By.XPATH,"//div[@id='comment-content']//yt-formatted-string[@id='content-text']")
+    for a in coms :
+        comz.append(a.text)
+
+    Yt_data.at[iki,'Comments']=comz
+
+
+
+
+
 Yt_data = ThreadYoutube(2,3)
 
 
