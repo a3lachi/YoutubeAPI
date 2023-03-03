@@ -66,6 +66,7 @@ def GetTrendingVideos() :
 def Handle() :
     global Yt_data
     global iki 
+    video = 'e'
     try :
         video = Yt_data.iloc[iki]['Link']
         if type(video)!=str :
@@ -85,7 +86,7 @@ def ScrapComments() :
     options = Options()
     options.add_argument('-headless')
     driver = webdriver.Firefox(options=options)
-
+    print('HHHHHHH ',video)
     while (len(video)>2) :
         print('servii ',video)
         driver.get(video)
@@ -106,7 +107,8 @@ def ScrapComments() :
         Yt_data.at[iki,'Comments']=comz
         print('Finished scrapping video : ',video)
         video = Handle()
-
+        if (video!=video) :
+            break 
     driver.quit()
 
 
@@ -140,7 +142,7 @@ def ThreadYoutube(NumbVidz,nbSc) :
 
 
 
-Yt_data = ThreadYoutube(4,4)
+Yt_data = ThreadYoutube(2,3)
 
 
 print(Yt_data.head(5))

@@ -1000,3 +1000,571 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1677828989976	geckodriver	INFO	Listening on 127.0.0.1:65317
+1677828990439	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile5tchVZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677828990803	Marionette	INFO	Marionette enabled
+1677828990944	Marionette	INFO	Listening on port 65325
+Read port: 65325
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:65318
+1677828991213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile5tchVZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65318/devtools/browser/a792227c-59fc-49c9-864f-a8ef8fe846f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:36:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677829000765	Marionette	INFO	Stopped listening on port 65325
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677829001782	geckodriver	INFO	Listening on 127.0.0.1:65392
+1677829001785	geckodriver	INFO	Listening on 127.0.0.1:65393
+1677829001791	geckodriver	INFO	Listening on 127.0.0.1:65390
+1677829001793	geckodriver	INFO	Listening on 127.0.0.1:65391
+1677829001799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile1NrQSo"
+1677829001799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile77GkEJ"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829002184	Marionette	INFO	Marionette enabled
+1677829002184	Marionette	INFO	Marionette enabled
+1677829002258	Marionette	INFO	Listening on port 65410
+1677829002308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileyl1sGS"
+1677829002308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileUSLCOA"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 65410
+1677829002358	Marionette	INFO	Listening on port 65420
+*** You are running in headless mode.
+*** You are running in headless mode.
+Read port: 65420
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+WebDriver BiDi listening on ws://127.0.0.1:65395
+1677829002812	Marionette	INFO	Marionette enabled
+1677829002813	Marionette	INFO	Marionette enabled
+1677829002819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677829002888	Marionette	INFO	Listening on port 65422
+1677829002907	Marionette	INFO	Listening on port 65423
+Read port: 65423
+Read port: 65422
+WebDriver BiDi listening on ws://127.0.0.1:65397
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677829003057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:65396
+1677829003437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile77GkEJ/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+WebDriver BiDi listening on ws://127.0.0.1:65394
+1677829003702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile1NrQSo/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileUSLCOA/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:65395/devtools/browser/72c2fe16-0825-4f87-9750-3034c60240fc
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileyl1sGS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65397/devtools/browser/b750dd7d-1b26-4457-8a4e-c53670c1e578
+DevTools listening on ws://127.0.0.1:65396/devtools/browser/4535c3c6-83d4-41d6-8bde-2d80b7cfff66
+DevTools listening on ws://127.0.0.1:65394/devtools/browser/f4297160-9d1f-4ced-b4a6-3aedb65e4b7f
+[2023-03-03T07:36:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:36:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 234 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:36:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6403 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:37:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 6457 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:37:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 551 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:37:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:37:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5212 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7497 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2978 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677829031840	Marionette	INFO	Stopped listening on port 65420
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=ibPSx6UuQ8s, line 12: TypeError: can't access dead object
+1677829032945	Marionette	INFO	Stopped listening on port 65423
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677829034827	Marionette	INFO	Stopped listening on port 65422
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+1677829081251	geckodriver	INFO	Listening on 127.0.0.1:49295
+1677829081775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEnhnS0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829082137	Marionette	INFO	Marionette enabled
+1677829082282	Marionette	INFO	Listening on port 49303
+Read port: 49303
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49296
+1677829082554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEnhnS0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49296/devtools/browser/e978deb1-4d9e-4fb1-befa-5e058c6837bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:38:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677829092729	Marionette	INFO	Stopped listening on port 49303
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677829093703	geckodriver	INFO	Listening on 127.0.0.1:49358
+1677829093703	geckodriver	INFO	Listening on 127.0.0.1:49359
+1677829094221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileFGVhls"
+1677829094222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile8bj8FW"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829094760	Marionette	INFO	Marionette enabled
+1677829094767	Marionette	INFO	Marionette enabled
+1677829094832	Marionette	INFO	Listening on port 49374
+1677829094835	Marionette	INFO	Listening on port 49375
+Read port: 49375
+Read port: 49374
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49361
+WebDriver BiDi listening on ws://127.0.0.1:49360
+1677829095400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677829095410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileFGVhls/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile8bj8FW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49360/devtools/browser/6c201b43-148b-4139-892b-4d2f381f9758
+DevTools listening on ws://127.0.0.1:49361/devtools/browser/8bc8c317-e586-49bc-95e3-7ee5f17c96ab
+[2023-03-03T07:38:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7822 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 5755 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677829113995	Marionette	INFO	Stopped listening on port 49375
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1827 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677829153711	geckodriver	INFO	Listening on 127.0.0.1:49511
+1677829154240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEeFV8c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829154737	Marionette	INFO	Marionette enabled
+1677829154805	Marionette	INFO	Listening on port 49519
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49519
+WebDriver BiDi listening on ws://127.0.0.1:49512
+1677829155318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEeFV8c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49512/devtools/browser/0f72aec9-30bc-415b-a5e2-fb0af1689b7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:39:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677829164724	Marionette	INFO	Stopped listening on port 49519
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677829165648	geckodriver	INFO	Listening on 127.0.0.1:49576
+1677829165648	geckodriver	INFO	Listening on 127.0.0.1:49575
+1677829166168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileDZBMfk"
+1677829166168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileFNOHsb"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829166591	Marionette	INFO	Marionette enabled
+1677829166591	Marionette	INFO	Marionette enabled
+1677829166663	Marionette	INFO	Listening on port 49591
+Read port: 49591
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677829166753	Marionette	INFO	Listening on port 49593
+Read port: 49593
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49578
+1677829167052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:49577
+1677829167225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileDZBMfk/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileFNOHsb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49578/devtools/browser/431b8925-912c-4682-af30-2eb6f60f99a8
+DevTools listening on ws://127.0.0.1:49577/devtools/browser/8f17de80-1ba2-4ec0-af58-0bfd73ed06a4
+[2023-03-03T07:39:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3856 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:39:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:39:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4601 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 2217 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677829184712	Marionette	INFO	Stopped listening on port 49591
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7110 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677829227666	geckodriver	INFO	Listening on 127.0.0.1:49784
+1677829228198	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilelfdwan"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829228749	Marionette	INFO	Marionette enabled
+1677829228834	Marionette	INFO	Listening on port 49795
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49795
+WebDriver BiDi listening on ws://127.0.0.1:49785
+1677829229135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilelfdwan/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49785/devtools/browser/286745e6-292e-42ed-9df5-cdf2f9710ece
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:40:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677829239003	Marionette	INFO	Stopped listening on port 49795
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677829239846	geckodriver	INFO	Listening on 127.0.0.1:49849
+1677829240065	geckodriver	INFO	Listening on 127.0.0.1:49848
+1677829240363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilekD8hRO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829240569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEZx9dJ"
+*** You are running in headless mode.
+1677829240769	Marionette	INFO	Marionette enabled
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829240846	Marionette	INFO	Listening on port 49865
+Read port: 49865
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677829240974	Marionette	INFO	Marionette enabled
+1677829241048	Marionette	INFO	Listening on port 49867
+Read port: 49867
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49851
+1677829241394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:49850
+1677829241562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilekD8hRO/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEZx9dJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49851/devtools/browser/e928bb1e-b338-4716-b4b4-9215d8dc44c8
+DevTools listening on ws://127.0.0.1:49850/devtools/browser/c18d9b4a-489e-4a4e-a3c5-b9728576e331
+[2023-03-03T07:40:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 196 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:40:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:40:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4794 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3044 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677829259503	Marionette	INFO	Stopped listening on port 49867
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1217 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677829441764	geckodriver	INFO	Listening on 127.0.0.1:50020
+1677829442248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileQoMIrY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829442746	Marionette	INFO	Marionette enabled
+1677829442804	Marionette	INFO	Listening on port 50028
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50028
+WebDriver BiDi listening on ws://127.0.0.1:50021
+1677829443202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileQoMIrY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50021/devtools/browser/47b628ac-26fa-456d-b773-28f05b499a88
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+[2023-03-03T07:44:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677829453059	Marionette	INFO	Stopped listening on port 50028
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1, line 12: TypeError: can't access dead object
+1677829454059	geckodriver	INFO	Listening on 127.0.0.1:50084
+1677829454363	geckodriver	INFO	Listening on 127.0.0.1:50083
+1677829454575	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileKts9Ya"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829454870	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile4xv7aI"
+*** You are running in headless mode.
+1677829454970	Marionette	INFO	Marionette enabled
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677829455147	Marionette	INFO	Listening on port 50100
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50100
+1677829455261	Marionette	INFO	Marionette enabled
+1677829455334	Marionette	INFO	Listening on port 50102
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50102
+WebDriver BiDi listening on ws://127.0.0.1:50086
+1677829455463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:50085
+1677829455898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileKts9Ya/search.json.mozlz4", (void 0)))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile4xv7aI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50086/devtools/browser/204f6a73-2b2f-4139-aeaa-cd025a6997f6
+DevTools listening on ws://127.0.0.1:50085/devtools/browser/90439974-75ba-4269-b202-c7e9d38cecd3
+[2023-03-03T07:44:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 7824 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3297: TypeError: can't access dead object
+[2023-03-03T07:44:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T07:44:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T07:44:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 9 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677829471905	Marionette	INFO	Stopped listening on port 50100
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=866EDPageH8, line 12: TypeError: can't access dead object
+1677829472665	Marionette	INFO	Stopped listening on port 50102
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=RD2MrMT1gMk, line 12: TypeError: can't access dead object
