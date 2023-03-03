@@ -155,15 +155,19 @@ def ScrapUrl(url,nmbScroll) :
         driver.execute_script("window.scrollTo(0,1000000)")
         time.sleep(1)
     comments = driver.find_element(By.ID,"comments")
-    coms = comments.find_elements(By.XPATH,"//div[@id='comment-content']//yt-formatted-string[@id='content-text']")
+    print(comments)
+    coms = comments.find_elements(By.XPATH,"//div[@id='comment-content']")
+    
     for a in coms :
-        comz.append(a.text)
+        comz.append((a.find_element(By.ID , 'content-text')).text)
 
     return comz
 
 
 
+comz = ScrapUrl('https://www.youtube.com/watch?v=TcXREjcKoyo',3)
 
+print(comz)
 
 
 

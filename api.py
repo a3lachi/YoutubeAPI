@@ -61,12 +61,12 @@ class Video(Resource) :
 
 		nmbComz = request.args.get('nmbcoms')
 
-		if not nmbcomz :
+		if not nmbComz :
 			nmbComz = 10
-		comz = ScrapUrl(url,nmbcomz//5)
+		comz = ScrapUrl(url,nmbComz//5)
 		comz  = '\n'.join(comz)
 
-		df = pd.DataFrame({'Url': url, 'Comments': comz })
+		df = pd.DataFrame({'Url': url, 'Comments': comz } , index=[0])
 
 		
 
