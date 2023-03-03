@@ -10,13 +10,19 @@ from YTScrap import *
 app = Flask(__name__)
 api = Api(app)
 
+
+
 class Trending(Resource) :
+	
 	def get(self):
 		Yt_df = GetTrendingVideos()
 		Yt_df=Yt_df.drop('Comments', axis=1)
 		return jsonify(Yt_df.to_dict(orient='records')) 
 
+
+
 class Video(Resource) :
+
 	def post(self):
 	    parser = reqparse.RequestParser()  
 	    parser.add_argument('url', required=True)

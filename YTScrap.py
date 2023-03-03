@@ -115,11 +115,11 @@ def ScrapComments() :
 
 
 
-def ThreadYoutube(NumbVidz,nbSc) :
+def ThreadYoutube(NumbVidz,nbScroll) :
     threads = []
     global Yt_data 
     global nmbScroll
-    nmbScroll=nbSc
+    nmbScroll=nbScroll
     try :
         Yt_data = GetTrendingVideos()
         Yt_data = Yt_data[:NumbVidz]
