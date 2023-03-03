@@ -1,0 +1,273 @@
+1677825487286	geckodriver	INFO	Listening on 127.0.0.1:62614
+1677825487818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofiledVI83N"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677825488259	Marionette	INFO	Marionette enabled
+1677825488334	Marionette	INFO	Listening on port 62622
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62622
+WebDriver BiDi listening on ws://127.0.0.1:62615
+1677825488891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofiledVI83N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62615/devtools/browser/de918a0a-b366-46d3-b171-89874e7acaf0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+1677825494583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-03T06:38:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677825499704	Marionette	INFO	Stopped listening on port 62622
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+1677825500606	geckodriver	INFO	Listening on 127.0.0.1:62676
+1677825500608	geckodriver	INFO	Listening on 127.0.0.1:62675
+1677825501126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62677" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileJA7umd"
+1677825501126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62678" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileXWpRqA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677825501534	Marionette	INFO	Marionette enabled
+1   HIToolbox                           0x00007ff81feba726 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 102
+2   HIToolbox                           0x00007ff81feba2b8 _ZN15MenuBarInstance14EnableAutoShowEv + 52
+3   HIToolbox                           0x00007ff81fe5e908 SetMenuBarObscured + 408
+4   HIToolbox                           0x00007ff81fe5e4ca _ZN13HIApplication15HandleActivatedEP14OpaqueEventRefhP15OpaqueWindowPtrh + 164
+5   HIToolbox                           0x00007ff81fe58996 _ZN13HIApplication13EventObserverEjP14OpaqueEventRefPv + 252
+6   HIToolbox                           0x00007ff81fe20bd2 _NotifyEventLoopObservers + 153
+7   HIToolbox                           0x00007ff81fe583e6 AcquireEventFromQueue + 494
+8   HIToolbox                           0x00007ff81fe473ec ReceiveNextEventCommon + 285
+9   HIToolbox                           0x00007ff81fe472b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+10  AppKit                              0x00007ff81964a2f3 _DPSNextEvent + 909
+11  AppKit                              0x00007ff819649174 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+12  XUL                                 0x0000000115ee2fce _ZN14nsXPTCStubBase7Stub249Ev + 12293550
+13  XUL                                 0x0000000115ee3d1a _ZN14nsXPTCStubBase7Stub249Ev + 12296954
+14  XUL                                 0x0000000115ee44bc _ZN14nsXPTCStubBase7Stub249Ev + 12298908
+15  XUL                                 0x000000011531210b NS_NewLocalFileWithFSRef + 256523
+16  XUL                                 0x0000000115318457 NS_NewLocalFileWithFSRef + 281943
+17  XUL                                 0x0000000114d97d8e NS_InvokeByIndex + 142
+18  XUL                                 0x0000000115626196 _ZN14nsXPTCStubBase7Stub249Ev + 3131254
+19  XUL                                 0x0000000115628181 _ZN14nsXPTCStubBase7Stub249Ev + 3139425
+20  XUL                                 0x00000001163bdf0d XRE_GetBootstrap + 288541
+21  XUL                                 0x00000001163c966a XRE_GetBootstrap + 335482
+22  XUL                                 0x00000001167ea44e XRE_GetBootstrap + 4664414
+23  ???                                 0x00001bfbc8442d05 0x0 + 30768210652421
+24  ???                                 0x00001bfbc844c4cc 0x0 + 30768210691276
+25  ???                                 0x00001bfbc84424ee 0x0 + 30768210650350
+26  XUL                                 0x00000001167ccccf XRE_GetBootstrap + 4543711
+27  XUL                                 0x00000001163b12f3 XRE_GetBootstrap + 236291
+28  XUL                                 0x00000001163c966a XRE_GetBootstrap + 335482
+29  XUL                                 0x000000011647d344 XRE_GetBootstrap + 1071956
+30  XUL                                 0x00000001163bdf0d XRE_GetBootstrap + 288541
+31  XUL                                 0x00000001163c966a XRE_GetBootstrap + 335482
+32  XUL                                 0x0000000116433395 XRE_GetBootstrap + 768933
+33  XUL                                 0x00000001156206f9 _ZN14nsXPTCStubBase7Stub249Ev + 3108057
+34  XUL                                 0x0000000115329b6a _ZN14nsXPTCStubBase7Stub249Ev + 330
+35  XUL                                 0x0000000115328abb NS_NewLocalFileWithFSRef + 349115
+36  XUL                                 0x0000000119d7da98 workerlz4_decompress + 973304
+37  XUL                                 0x00000001163760c4 workerlz4_maxCompressedSize + 445156
+38  XUL                                 0x0000000119d7905c workerlz4_decompress + 954300
+39  XUL                                 0x0000000119d7947c workerlz4_decompress + 955356
+40  firefox-bin                         0x0000000104433fe5 firefox-bin + 8165
+41  dyld                                0x00007ff8160ed310 start + 2432
+1677825501640	Marionette	INFO	Marionette enabled
+1677825501688	Marionette	INFO	Listening on port 62693
+1677825501722	Marionette	INFO	Listening on port 62694
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62693
+Read port: 62694
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62677
+1677825501992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:62678
+1677825502128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileJA7umd/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileXWpRqA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62677/devtools/browser/1acee5d7-ac5c-497e-9e02-cf1cb9c8c372
+DevTools listening on ws://127.0.0.1:62678/devtools/browser/cbb0d704-06d2-4bc5-b037-a0033a0bfa96
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 572))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 572))
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1677825506471	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-03T06:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:26Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1   HIToolbox                           0x00007ff81fe470c2 _ZN15MenuBarInstance22RemoveAutoShowObserverEv + 30
+2   HIToolbox                           0x00007ff81fe5e7e3 SetMenuBarObscured + 115
+3   HIToolbox                           0x00007ff81fe6529e _ZN13HIApplication11FrontUILostEv + 34
+4   HIToolbox                           0x00007ff81fe5e622 _ZN13HIApplication15HandleActivatedEP14OpaqueEventRefhP15OpaqueWindowPtrh + 508
+5   HIToolbox                           0x00007ff81fe58950 _ZN13HIApplication13EventObserverEjP14OpaqueEventRefPv + 182
+6   HIToolbox                           0x00007ff81fe20bd2 _NotifyEventLoopObservers + 153
+7   HIToolbox                           0x00007ff81fe583e6 AcquireEventFromQueue + 494
+8   HIToolbox                           0x00007ff81fe475a4 ReceiveNextEventCommon + 725
+9   HIToolbox                           0x00007ff81fe472b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+10  AppKit                              0x00007ff81964a2f3 _DPSNextEvent + 909
+11  AppKit                              0x00007ff819649174 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+12  XUL                                 0x0000000115ee2fce _ZN14nsXPTCStubBase7Stub249Ev + 12293550
+13  AppKit                              0x00007ff81963b7b7 -[NSApplication run] + 586
+14  XUL                                 0x0000000115ee3e91 _ZN14nsXPTCStubBase7Stub249Ev + 12297329
+15  XUL                                 0x0000000119cf504c workerlz4_decompress + 413612
+16  XUL                                 0x0000000116376459 workerlz4_maxCompressedSize + 446073
+17  XUL                                 0x0000000119d7905c workerlz4_decompress + 954300
+18  XUL                                 0x0000000119d7947c workerlz4_decompress + 955356
+19  firefox-bin                         0x0000000104433fe5 firefox-bin + 8165
+20  dyld                                0x00007ff8160ed310 start + 2432
+[2023-03-03T06:38:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3714 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T06:38:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 3118 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-03T06:38:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:38:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 4066 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1505 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9sSoBG9D25FhvYLg3_iwWJ49bM2Qm57VxEM1rvvqfaE.js line 2 > eval line 1031 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677825589743	geckodriver	INFO	Listening on 127.0.0.1:62828
+1677825590272	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile5sHkep"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677825590699	Marionette	INFO	Marionette enabled
+1677825590754	Marionette	INFO	Listening on port 62836
+Read port: 62836
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62829
+1677825591110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile5sHkep/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62829/devtools/browser/98c4600c-d983-4dad-9b38-e096fd608e69
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+1677825596317	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-03T06:39:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:39:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:39:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:39:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:39:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:39:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:39:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 24919, MediaDecoderStateMachine #1] WARNING: Decoder=116ad2000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 24919, MediaDecoderStateMachine #1] WARNING: Decoder=116ad2000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1677825609228	Marionette	INFO	Stopped listening on port 62836
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+1677825916648	geckodriver	INFO	Listening on 127.0.0.1:62893
+1677825917160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilenEnozn"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677825917607	Marionette	INFO	Marionette enabled
+1677825917682	Marionette	INFO	Listening on port 62901
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62901
+WebDriver BiDi listening on ws://127.0.0.1:62894
+1677825917958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilenEnozn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62894/devtools/browser/0b342e10-719f-4577-b679-9727d3d047e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+1677825923884	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-03T06:45:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:45:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:45:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:45:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:45:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:45:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:45:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:45:25Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677825929323	Marionette	INFO	Stopped listening on port 62901
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+1677825967636	geckodriver	INFO	Listening on 127.0.0.1:62959
+1677825968152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileUJhn6Q"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677825968541	Marionette	INFO	Marionette enabled
+1677825968598	Marionette	INFO	Listening on port 62967
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62967
+WebDriver BiDi listening on ws://127.0.0.1:62960
+1677825968952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileUJhn6Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62960/devtools/browser/48abcd74-e9de-476c-8466-dd42dfb1b2a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+1677825974308	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-03T06:46:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:46:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:46:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:46:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:46:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:46:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:46:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 25016, MediaDecoderStateMachine #1] WARNING: Decoder=114308400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 25016, MediaDecoderStateMachine #1] WARNING: Decoder=114308400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1677825992035	Marionette	INFO	Stopped listening on port 62967
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object
+1677826016721	geckodriver	INFO	Listening on 127.0.0.1:63026
+1677826017242	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile9cwyYa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677826017573	Marionette	INFO	Marionette enabled
+1677826017704	Marionette	INFO	Listening on port 63034
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 63034
+WebDriver BiDi listening on ws://127.0.0.1:63027
+1677826017960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile9cwyYa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63027/devtools/browser/c1b9fc12-8b71-4ef5-bee2-100ab3d19440
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.youtube.com."
+1677826023171	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-03T06:47:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:47:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:47:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:47:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:47:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-03T06:47:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 25061, MediaDecoderStateMachine #1] WARNING: Decoder=1243f0500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 25061, MediaDecoderStateMachine #1] WARNING: Decoder=1243f0500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 25061, MediaDecoderStateMachine #1] WARNING: Decoder=121743000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 25061, MediaDecoderStateMachine #1] WARNING: Decoder=121743000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1677826035866	Marionette	INFO	Stopped listening on port 63034
+JavaScript error: https://www.youtube.com/feed/trending?cbrd=1&themeRefresh=1, line 12: TypeError: can't access dead object

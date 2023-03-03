@@ -8,6 +8,12 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 import time 
 
+
+
+global iki
+iki = 0
+
+
 def Bitina(driver) :
     time.sleep(2)
     try :
@@ -128,13 +134,7 @@ def ThreadYoutube(NumbVidz) :
 
 
 
-global iki
 
-iki = 0
-
-
-
-ThreadYoutube(2)
 
 
 
