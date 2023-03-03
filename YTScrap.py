@@ -86,9 +86,7 @@ def ScrapComments() :
     options = Options()
     options.add_argument('-headless')
     driver = webdriver.Firefox(options=options)
-    print('HHHHHHH ',video)
     while (len(video)>2) :
-        print('servii ',video)
         driver.get(video)
 
         Bitina(driver)
@@ -161,16 +159,10 @@ def ScrapUrl(url,nmbScroll) :
     for a in coms :
         comz.append(a.text)
 
-    Yt_data.at[iki,'Comments']=comz
+    return comz
 
 
 
-
-
-Yt_data = ThreadYoutube(2,3)
-
-
-print(Yt_data.head(5))
 
 
 
