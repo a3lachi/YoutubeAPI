@@ -155,11 +155,13 @@ def ScrapUrl(url,nmbScroll) :
         driver.execute_script("window.scrollTo(0,1000000)")
         time.sleep(1)
     comments = driver.find_element(By.ID,"comments")
-    print(comments)
     coms = comments.find_elements(By.XPATH,"//div[@id='comment-content']")
     
     for a in coms :
-        comz.append((a.find_element(By.ID , 'content-text')).text)
+        s=a.find_element(By.ID ,'content-text').text
+        comz.append(s)
+
+    driver.quit()
 
     return comz
 
