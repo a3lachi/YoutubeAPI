@@ -142,7 +142,7 @@ def ThreadYoutube(NumbVidz,nbScroll) :
 
 def ScrapUrl(url,nmbScroll) :
     options = Options()
-    options.add_argument('-headless')
+    #options.add_argument('-headless')
     driver = webdriver.Firefox(options=options)
     driver.get(url)
 
@@ -165,7 +165,7 @@ def ScrapUrl(url,nmbScroll) :
 
 
 
-comz = ScrapUrl('https://www.youtube.com/watch?v=TcXREjcKoyo',3)
+comz = ScrapUrl('https://www.youtube.com/watch?v=TcXREjcKoyo',6)
 
 print(comz)
 

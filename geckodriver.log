@@ -2776,3 +2776,54 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDM
 [2023-03-03T20:49:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 3757 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 7728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:916:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:127:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:393:22
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
+1   HIToolbox                           0x00007ff820712726 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 102
+2   HIToolbox                           0x00007ff8206b6852 SetMenuBarObscured + 226
+3   HIToolbox                           0x00007ff8206b64ca _ZN13HIApplication15HandleActivatedEP14OpaqueEventRefhP15OpaqueWindowPtrh + 164
+4   HIToolbox                           0x00007ff8206b0996 _ZN13HIApplication13EventObserverEjP14OpaqueEventRefPv + 252
+5   HIToolbox                           0x00007ff820678bd2 _NotifyEventLoopObservers + 153
+6   AppKit                              0x00007ff81a090f73 -[NSWindow(NSEventRouting) _handleMouseDownEvent:isDelayedEvent:] + 3212
+7   AppKit                              0x00007ff81a00758e -[NSWindow(NSEventRouting) _reallySendEvent:isDelayedEvent:] + 2595
+8   AppKit                              0x00007ff81a00694f -[NSWindow(NSEventRouting) sendEvent:] + 345
+9   XUL                                 0x000000011535b4b5 mozilla_set_coreaudio_notification_runloop_if_needed + 6400437
+10  AppKit                              0x00007ff81a004cbe -[NSApplication(NSEvent) sendEvent:] + 358
+11  XUL                                 0x00000001121e2f2c _ZN14nsXPTCStubBase7Stub249Ev + 12293388
+12  AppKit                              0x00007ff81a2c3665 -[NSApplication _handleEvent:] + 65
+13  AppKit                              0x00007ff819e937dc -[NSApplication run] + 623
+14  XUL                                 0x00000001121e3e91 _ZN14nsXPTCStubBase7Stub249Ev + 12297329
+15  XUL                                 0x0000000115ff504c workerlz4_decompress + 413612
+16  XUL                                 0x0000000112676459 workerlz4_maxCompressedSize + 446073
+17  XUL                                 0x000000011607905c workerlz4_decompress + 954300
+18  XUL                                 0x000000011607947c workerlz4_decompress + 955356
+19  firefox-bin                         0x0000000100796fe5 firefox-bin + 8165
+20  dyld                                0x00007ff816945310 start + 2432
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+1677881157953	Marionette	INFO	Stopped listening on port 52958
+1677881168888	Marionette	INFO	Stopped listening on port 52568
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677881172861	Marionette	INFO	Stopped listening on port 52827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
