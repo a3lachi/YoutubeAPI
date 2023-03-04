@@ -142,8 +142,10 @@ def ThreadYoutube(NumbVidz,nbScroll) :
 
 def ScrapUrl(url,nmbScroll) :
     options = Options()
-    #options.add_argument('-headless')
-    driver = webdriver.Firefox(options=options)
+    options.add_argument('-headless')
+    user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15'
+    options.add_argument(f'user-agent={user_agent}')
+    driver = webdriver.Firefox(executable_path='/Users/farawa/Downloads/geckodriver',options=options)
     driver.get(url)
 
     Bitina(driver)
@@ -154,10 +156,12 @@ def ScrapUrl(url,nmbScroll) :
     for j in range(nmbScroll) :
         driver.execute_script("window.scrollTo(0,1000000)")
         time.sleep(1)
+    time.sleep(4)
     comments = driver.find_element(By.ID,"comments")
     coms = comments.find_elements(By.XPATH,"//div[@id='comment-content']")
     
     for a in coms :
+        print(a.text)
         s=a.find_element(By.ID ,'content-text').text
         comz.append(s)
 

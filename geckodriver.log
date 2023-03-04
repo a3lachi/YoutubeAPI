@@ -3059,3 +3059,555 @@ JavaScript error: chrome://global/content/elements/videocontrols.js, line 3297: 
 [2023-03-04T02:29:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
 JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 6978 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 2227 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1   HIToolbox                           0x00007ff820712726 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 102
+2   HIToolbox                           0x00007ff8206b6852 SetMenuBarObscured + 226
+3   HIToolbox                           0x00007ff8206b64ca _ZN13HIApplication15HandleActivatedEP14OpaqueEventRefhP15OpaqueWindowPtrh + 164
+4   HIToolbox                           0x00007ff8206b0996 _ZN13HIApplication13EventObserverEjP14OpaqueEventRefPv + 252
+5   HIToolbox                           0x00007ff820678bd2 _NotifyEventLoopObservers + 153
+6   AppKit                              0x00007ff81a090f73 -[NSWindow(NSEventRouting) _handleMouseDownEvent:isDelayedEvent:] + 3212
+7   AppKit                              0x00007ff81a00758e -[NSWindow(NSEventRouting) _reallySendEvent:isDelayedEvent:] + 2595
+8   AppKit                              0x00007ff81a00694f -[NSWindow(NSEventRouting) sendEvent:] + 345
+9   XUL                                 0x000000011925b4b5 mozilla_set_coreaudio_notification_runloop_if_needed + 6400437
+10  AppKit                              0x00007ff81a004cbe -[NSApplication(NSEvent) sendEvent:] + 358
+11  XUL                                 0x00000001160e2f2c _ZN14nsXPTCStubBase7Stub249Ev + 12293388
+12  AppKit                              0x00007ff81a2c3665 -[NSApplication _handleEvent:] + 65
+13  AppKit                              0x00007ff819e937dc -[NSApplication run] + 623
+14  XUL                                 0x00000001160e3e91 _ZN14nsXPTCStubBase7Stub249Ev + 12297329
+15  XUL                                 0x0000000119ef504c workerlz4_decompress + 413612
+16  XUL                                 0x0000000116576459 workerlz4_maxCompressedSize + 446073
+17  XUL                                 0x0000000119f7905c workerlz4_decompress + 954300
+18  XUL                                 0x0000000119f7947c workerlz4_decompress + 955356
+19  firefox-bin                         0x00000001045a9fe5 firefox-bin + 8165
+20  dyld                                0x00007ff816945310 start + 2432
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+1677896987713	Marionette	INFO	Stopped listening on port 53707
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+1677896991577	geckodriver	INFO	Listening on 127.0.0.1:53774
+1677896991585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53775" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile3hxDIJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1   HIToolbox                           0x00007ff820712726 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 102
+2   HIToolbox                           0x00007ff8207122b8 _ZN15MenuBarInstance14EnableAutoShowEv + 52
+3   HIToolbox                           0x00007ff8206b6908 SetMenuBarObscured + 408
+4   HIToolbox                           0x00007ff8206b64ca _ZN13HIApplication15HandleActivatedEP14OpaqueEventRefhP15OpaqueWindowPtrh + 164
+5   HIToolbox                           0x00007ff8206b0996 _ZN13HIApplication13EventObserverEjP14OpaqueEventRefPv + 252
+6   HIToolbox                           0x00007ff820678bd2 _NotifyEventLoopObservers + 153
+7   HIToolbox                           0x00007ff8206b03e6 AcquireEventFromQueue + 494
+8   HIToolbox                           0x00007ff82069f3ec ReceiveNextEventCommon + 285
+9   HIToolbox                           0x00007ff82069f2b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+10  AppKit                              0x00007ff819ea22f3 _DPSNextEvent + 909
+11  AppKit                              0x00007ff819ea1174 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+12  XUL                                 0x000000011c0e2fce _ZN14nsXPTCStubBase7Stub249Ev + 12293550
+13  XUL                                 0x000000011c0e3d1a _ZN14nsXPTCStubBase7Stub249Ev + 12296954
+14  XUL                                 0x000000011c0e44bc _ZN14nsXPTCStubBase7Stub249Ev + 12298908
+15  XUL                                 0x000000011b51210b NS_NewLocalFileWithFSRef + 256523
+16  XUL                                 0x000000011b518457 NS_NewLocalFileWithFSRef + 281943
+17  XUL                                 0x000000011af97d8e NS_InvokeByIndex + 142
+18  XUL                                 0x000000011b826196 _ZN14nsXPTCStubBase7Stub249Ev + 3131254
+19  XUL                                 0x000000011b828181 _ZN14nsXPTCStubBase7Stub249Ev + 3139425
+20  XUL                                 0x000000011c5bdf0d XRE_GetBootstrap + 288541
+21  XUL                                 0x000000011c5c966a XRE_GetBootstrap + 335482
+22  XUL                                 0x000000011c9ea44e XRE_GetBootstrap + 4664414
+23  ???                                 0x000037b398fd3d05 0x0 + 61244505406725
+24  ???                                 0x000037b398fdd4cc 0x0 + 61244505445580
+25  ???                                 0x000037b398fd34ee 0x0 + 61244505404654
+26  XUL                                 0x000000011c9ccccf XRE_GetBootstrap + 4543711
+27  XUL                                 0x000000011c5b12f3 XRE_GetBootstrap + 236291
+28  XUL                                 0x000000011c5c966a XRE_GetBootstrap + 335482
+29  XUL                                 0x000000011c67d344 XRE_GetBootstrap + 1071956
+30  XUL                                 0x000000011c5bdf0d XRE_GetBootstrap + 288541
+31  XUL                                 0x000000011c5c966a XRE_GetBootstrap + 335482
+32  XUL                                 0x000000011c633395 XRE_GetBootstrap + 768933
+33  XUL                                 0x000000011b8206f9 _ZN14nsXPTCStubBase7Stub249Ev + 3108057
+34  XUL                                 0x000000011b529b6a _ZN14nsXPTCStubBase7Stub249Ev + 330
+35  XUL                                 0x000000011b528abb NS_NewLocalFileWithFSRef + 349115
+36  XUL                                 0x000000011ff7da98 workerlz4_decompress + 973304
+37  XUL                                 0x000000011c5760c4 workerlz4_maxCompressedSize + 445156
+38  XUL                                 0x000000011ff7905c workerlz4_decompress + 954300
+39  XUL                                 0x000000011ff7947c workerlz4_decompress + 955356
+40  firefox-bin                         0x000000010a5e2fe5 firefox-bin + 8165
+41  dyld                                0x00007ff816945310 start + 2432
+1677896992065	Marionette	INFO	Marionette enabled
+1677896992143	Marionette	INFO	Listening on port 53778
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53778
+1   HIToolbox                           0x00007ff82081952b _ZN15MenuBarInstance21IsAutoShowHideAllowedEv + 259
+2   HIToolbox                           0x00007ff82071233e _ZN15MenuBarInstance24UpdateAutoShowVisibilityE5Pointh + 34
+3   HIToolbox                           0x00007ff8206817a4 _ZN15MenuBarInstance16ForEachMenuBarDoEU13block_pointerFvPS_E + 46
+4   HIToolbox                           0x00007ff82071293d _ZN15MenuBarInstance20AutoShowHideObserverEjP14OpaqueEventRefPv + 165
+5   HIToolbox                           0x00007ff820678bd2 _NotifyEventLoopObservers + 153
+6   HIToolbox                           0x00007ff8206aafb8 PostEventToQueueInternal + 700
+7   HIToolbox                           0x00007ff8206ac871 _ZL29CreateAndPostEventWithCGEventP9__CGEventjhP17__CFMachPortBoost + 404
+8   HIToolbox                           0x00007ff8206b8ee9 _ZL15Convert1CGEventh + 246
+9   HIToolbox                           0x00007ff8206b8d91 _ZL16MainLoopObserverjP14OpaqueEventRefPv + 41
+10  HIToolbox                           0x00007ff820678bd2 _NotifyEventLoopObservers + 153
+11  HIToolbox                           0x00007ff82069f726 RunCurrentEventLoopInMode + 228
+12  HIToolbox                           0x00007ff82069f396 ReceiveNextEventCommon + 199
+13  HIToolbox                           0x00007ff82069f2b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+14  AppKit                              0x00007ff819ea22f3 _DPSNextEvent + 909
+15  AppKit                              0x00007ff819ea1174 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+16  XUL                                 0x000000011c0e2fce _ZN14nsXPTCStubBase7Stub249Ev + 12293550
+17  AppKit                              0x00007ff819e937b7 -[NSApplication run] + 586
+18  XUL                                 0x000000011c0e3e91 _ZN14nsXPTCStubBase7Stub249Ev + 12297329
+19  XUL                                 0x000000011fef504c workerlz4_decompress + 413612
+20  XUL                                 0x000000011c576459 workerlz4_maxCompressedSize + 446073
+21  XUL                                 0x000000011ff7905c workerlz4_decompress + 954300
+22  XUL                                 0x000000011ff7947c workerlz4_decompress + 955356
+23  firefox-bin                         0x000000010a5e2fe5 firefox-bin + 8165
+24  dyld                                0x00007ff816945310 start + 2432
+WebDriver BiDi listening on ws://127.0.0.1:53775
+1   HIToolbox                           0x00007ff82069f0c2 _ZN15MenuBarInstance22RemoveAutoShowObserverEv + 30
+2   HIToolbox                           0x00007ff8206b67e3 SetMenuBarObscured + 115
+3   HIToolbox                           0x00007ff8206bd29e _ZN13HIApplication11FrontUILostEv + 34
+4   HIToolbox                           0x00007ff8206b6622 _ZN13HIApplication15HandleActivatedEP14OpaqueEventRefhP15OpaqueWindowPtrh + 508
+5   HIToolbox                           0x00007ff8206b0950 _ZN13HIApplication13EventObserverEjP14OpaqueEventRefPv + 182
+6   HIToolbox                           0x00007ff820678bd2 _NotifyEventLoopObservers + 153
+7   HIToolbox                           0x00007ff8206b03e6 AcquireEventFromQueue + 494
+8   HIToolbox                           0x00007ff82069f3ec ReceiveNextEventCommon + 285
+9   HIToolbox                           0x00007ff82069f2b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+10  AppKit                              0x00007ff819ea22f3 _DPSNextEvent + 909
+11  AppKit                              0x00007ff819ea1174 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+12  XUL                                 0x000000011c0e2fce _ZN14nsXPTCStubBase7Stub249Ev + 12293550
+13  AppKit                              0x00007ff819e937b7 -[NSApplication run] + 586
+14  XUL                                 0x000000011c0e3e91 _ZN14nsXPTCStubBase7Stub249Ev + 12297329
+15  XUL                                 0x000000011fef504c workerlz4_decompress + 413612
+16  XUL                                 0x000000011c576459 workerlz4_maxCompressedSize + 446073
+17  XUL                                 0x000000011ff7905c workerlz4_decompress + 954300
+18  XUL                                 0x000000011ff7947c workerlz4_decompress + 955356
+19  firefox-bin                         0x000000010a5e2fe5 firefox-bin + 8165
+20  dyld                                0x00007ff816945310 start + 2432
+1677896992531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile3hxDIJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53775/devtools/browser/6aea83ae-cdac-4b92-9a1e-6508b0f1739d
+[2023-03-04T02:29:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:29:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:29:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:29:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 736 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-04T02:30:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 7384 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 1089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1   HIToolbox                           0x00007ff820712726 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 102
+2   HIToolbox                           0x00007ff8206db638 _ZL17BroadcastInternaljPvh + 167
+3   SkyLight                            0x00007ff81b98023d _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 1030
+4   SkyLight                            0x00007ff81bc9305a _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 202
+5   SkyLight                            0x00007ff81bc92f81 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 18
+6   libdispatch.dylib                   0x00007ff816af77fb _dispatch_call_block_and_release + 12
+7   libdispatch.dylib                   0x00007ff816af8a44 _dispatch_client_callout + 8
+8   libdispatch.dylib                   0x00007ff816b057b9 _dispatch_main_queue_drain + 952
+9   libdispatch.dylib                   0x00007ff816b053f3 _dispatch_main_queue_callback_4CF + 31
+10  CoreFoundation                      0x00007ff816d925f0 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 9
+11  CoreFoundation                      0x00007ff816d52b70 __CFRunLoopRun + 2454
+12  CoreFoundation                      0x00007ff816d51b60 CFRunLoopRunSpecific + 560
+13  HIToolbox                           0x00007ff82069f766 RunCurrentEventLoopInMode + 292
+14  HIToolbox                           0x00007ff82069f576 ReceiveNextEventCommon + 679
+15  HIToolbox                           0x00007ff82069f2b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+16  AppKit                              0x00007ff819ea22f3 _DPSNextEvent + 909
+17  AppKit                              0x00007ff819ea1174 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+18  XUL                                 0x000000011c0e2fce _ZN14nsXPTCStubBase7Stub249Ev + 12293550
+19  AppKit                              0x00007ff819e937b7 -[NSApplication run] + 586
+20  XUL                                 0x000000011c0e3e91 _ZN14nsXPTCStubBase7Stub249Ev + 12297329
+21  XUL                                 0x000000011fef504c workerlz4_decompress + 413612
+22  XUL                                 0x000000011c576459 workerlz4_maxCompressedSize + 446073
+23  XUL                                 0x000000011ff7905c workerlz4_decompress + 954300
+24  XUL                                 0x000000011ff7947c workerlz4_decompress + 955356
+25  firefox-bin                         0x000000010a5e2fe5 firefox-bin + 8165
+26  dyld                                0x00007ff816945310 start + 2432
+1677897014149	Marionette	INFO	Stopped listening on port 53778
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+1677897034364	geckodriver	INFO	Listening on 127.0.0.1:53846
+1677897034372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53847" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileQCwTyb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1   HIToolbox                           0x00007ff820712726 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 102
+2   HIToolbox                           0x00007ff8207122b8 _ZN15MenuBarInstance14EnableAutoShowEv + 52
+3   HIToolbox                           0x00007ff8206b6908 SetMenuBarObscured + 408
+4   HIToolbox                           0x00007ff8206b64ca _ZN13HIApplication15HandleActivatedEP14OpaqueEventRefhP15OpaqueWindowPtrh + 164
+5   HIToolbox                           0x00007ff8206b0996 _ZN13HIApplication13EventObserverEjP14OpaqueEventRefPv + 252
+6   HIToolbox                           0x00007ff820678bd2 _NotifyEventLoopObservers + 153
+7   HIToolbox                           0x00007ff8206b03e6 AcquireEventFromQueue + 494
+8   HIToolbox                           0x00007ff82069f3ec ReceiveNextEventCommon + 285
+9   HIToolbox                           0x00007ff82069f2b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+10  AppKit                              0x00007ff819ea22f3 _DPSNextEvent + 909
+11  AppKit                              0x00007ff819ea1174 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+12  XUL                                 0x00000001143e2fce _ZN14nsXPTCStubBase7Stub249Ev + 12293550
+13  XUL                                 0x00000001143e3d1a _ZN14nsXPTCStubBase7Stub249Ev + 12296954
+14  XUL                                 0x00000001143e44bc _ZN14nsXPTCStubBase7Stub249Ev + 12298908
+15  XUL                                 0x000000011381210b NS_NewLocalFileWithFSRef + 256523
+16  XUL                                 0x0000000113818457 NS_NewLocalFileWithFSRef + 281943
+17  XUL                                 0x0000000113297d8e NS_InvokeByIndex + 142
+18  XUL                                 0x0000000113b26196 _ZN14nsXPTCStubBase7Stub249Ev + 3131254
+19  XUL                                 0x0000000113b28181 _ZN14nsXPTCStubBase7Stub249Ev + 3139425
+20  XUL                                 0x00000001148bdf0d XRE_GetBootstrap + 288541
+21  XUL                                 0x00000001148c966a XRE_GetBootstrap + 335482
+22  XUL                                 0x0000000114cea44e XRE_GetBootstrap + 4664414
+23  ???                                 0x0000331f033e4d05 0x0 + 56208291417349
+24  ???                                 0x0000331f033ee4cc 0x0 + 56208291456204
+25  ???                                 0x0000331f033e44ee 0x0 + 56208291415278
+26  XUL                                 0x0000000114cccccf XRE_GetBootstrap + 4543711
+27  XUL                                 0x00000001148b12f3 XRE_GetBootstrap + 236291
+28  XUL                                 0x00000001148c966a XRE_GetBootstrap + 335482
+29  XUL                                 0x000000011497d344 XRE_GetBootstrap + 1071956
+30  XUL                                 0x00000001148bdf0d XRE_GetBootstrap + 288541
+31  XUL                                 0x00000001148c966a XRE_GetBootstrap + 335482
+32  XUL                                 0x0000000114933395 XRE_GetBootstrap + 768933
+33  XUL                                 0x0000000113b206f9 _ZN14nsXPTCStubBase7Stub249Ev + 3108057
+34  XUL                                 0x0000000113829b6a _ZN14nsXPTCStubBase7Stub249Ev + 330
+35  XUL                                 0x0000000113828abb NS_NewLocalFileWithFSRef + 349115
+36  XUL                                 0x000000011827da98 workerlz4_decompress + 973304
+37  XUL                                 0x00000001148760c4 workerlz4_maxCompressedSize + 445156
+38  XUL                                 0x000000011827905c workerlz4_decompress + 954300
+39  XUL                                 0x000000011827947c workerlz4_decompress + 955356
+40  firefox-bin                         0x0000000102915fe5 firefox-bin + 8165
+41  dyld                                0x00007ff816945310 start + 2432
+1677897034806	Marionette	INFO	Marionette enabled
+1677897034887	Marionette	INFO	Listening on port 53850
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53850
+WebDriver BiDi listening on ws://127.0.0.1:53847
+1677897035238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileQCwTyb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53847/devtools/browser/27717a2f-808a-498d-b5b6-f80d2eb84d9f
+1   HIToolbox                           0x00007ff82069f0c2 _ZN15MenuBarInstance22RemoveAutoShowObserverEv + 30
+2   HIToolbox                           0x00007ff8206b67e3 SetMenuBarObscured + 115
+3   HIToolbox                           0x00007ff8206bd29e _ZN13HIApplication11FrontUILostEv + 34
+4   HIToolbox                           0x00007ff8206b6622 _ZN13HIApplication15HandleActivatedEP14OpaqueEventRefhP15OpaqueWindowPtrh + 508
+5   HIToolbox                           0x00007ff8206b0950 _ZN13HIApplication13EventObserverEjP14OpaqueEventRefPv + 182
+6   HIToolbox                           0x00007ff820678bd2 _NotifyEventLoopObservers + 153
+7   HIToolbox                           0x00007ff8206b03e6 AcquireEventFromQueue + 494
+8   HIToolbox                           0x00007ff82069f5a4 ReceiveNextEventCommon + 725
+9   HIToolbox                           0x00007ff82069f2b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+10  AppKit                              0x00007ff819ea22f3 _DPSNextEvent + 909
+11  AppKit                              0x00007ff819ea1174 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+12  XUL                                 0x00000001143e2fce _ZN14nsXPTCStubBase7Stub249Ev + 12293550
+13  AppKit                              0x00007ff819e937b7 -[NSApplication run] + 586
+14  XUL                                 0x00000001143e3e91 _ZN14nsXPTCStubBase7Stub249Ev + 12297329
+15  XUL                                 0x00000001181f504c workerlz4_decompress + 413612
+16  XUL                                 0x0000000114876459 workerlz4_maxCompressedSize + 446073
+17  XUL                                 0x000000011827905c workerlz4_decompress + 954300
+18  XUL                                 0x000000011827947c workerlz4_decompress + 955356
+19  firefox-bin                         0x0000000102915fe5 firefox-bin + 8165
+20  dyld                                0x00007ff816945310 start + 2432
+1677897038879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-04T02:30:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 7246 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-04T02:30:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 3420 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1   HIToolbox                           0x00007ff820712726 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 102
+2   HIToolbox                           0x00007ff8206b6852 SetMenuBarObscured + 226
+3   HIToolbox                           0x00007ff8206b64ca _ZN13HIApplication15HandleActivatedEP14OpaqueEventRefhP15OpaqueWindowPtrh + 164
+4   HIToolbox                           0x00007ff8206b0996 _ZN13HIApplication13EventObserverEjP14OpaqueEventRefPv + 252
+5   HIToolbox                           0x00007ff820678bd2 _NotifyEventLoopObservers + 153
+6   AppKit                              0x00007ff81a090f73 -[NSWindow(NSEventRouting) _handleMouseDownEvent:isDelayedEvent:] + 3212
+7   AppKit                              0x00007ff81a00758e -[NSWindow(NSEventRouting) _reallySendEvent:isDelayedEvent:] + 2595
+8   AppKit                              0x00007ff81a00694f -[NSWindow(NSEventRouting) sendEvent:] + 345
+9   XUL                                 0x000000011755b4b5 mozilla_set_coreaudio_notification_runloop_if_needed + 6400437
+10  AppKit                              0x00007ff81a004cbe -[NSApplication(NSEvent) sendEvent:] + 358
+11  XUL                                 0x00000001143e2f2c _ZN14nsXPTCStubBase7Stub249Ev + 12293388
+12  AppKit                              0x00007ff81a2c3665 -[NSApplication _handleEvent:] + 65
+13  AppKit                              0x00007ff819e937dc -[NSApplication run] + 623
+14  XUL                                 0x00000001143e3e91 _ZN14nsXPTCStubBase7Stub249Ev + 12297329
+15  XUL                                 0x00000001181f504c workerlz4_decompress + 413612
+16  XUL                                 0x0000000114876459 workerlz4_maxCompressedSize + 446073
+17  XUL                                 0x000000011827905c workerlz4_decompress + 954300
+18  XUL                                 0x000000011827947c workerlz4_decompress + 955356
+19  firefox-bin                         0x0000000102915fe5 firefox-bin + 8165
+20  dyld                                0x00007ff816945310 start + 2432
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+1677897047151	Marionette	INFO	Stopped listening on port 53850
+1677897049641	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1677897054213	geckodriver	INFO	Listening on 127.0.0.1:53908
+1677897054223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEToDly"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677897054545	Marionette	INFO	Marionette enabled
+1677897054663	Marionette	INFO	Listening on port 53912
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53912
+WebDriver BiDi listening on ws://127.0.0.1:53909
+1677897054943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileEToDly/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53909/devtools/browser/dc321dc9-8523-4ee4-a85d-78523bcf4a9c
+[2023-03-04T02:30:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:30:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 3293 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-04T02:31:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:31:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:31:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:31:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 3306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677897074544	Marionette	INFO	Stopped listening on port 53912
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+1677897105424	geckodriver	INFO	Listening on 127.0.0.1:53979
+1677897105433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileSDE12L"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677897105783	Marionette	INFO	Marionette enabled
+1677897105907	Marionette	INFO	Listening on port 53983
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53983
+WebDriver BiDi listening on ws://127.0.0.1:53980
+1677897106160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileSDE12L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53980/devtools/browser/1bc44c86-056c-4c9d-b6da-9a7447dcd48c
+[2023-03-04T02:31:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:31:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:31:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:31:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 7467 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-04T02:31:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:31:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:31:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:31:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 4515 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677897125704	Marionette	INFO	Stopped listening on port 53983
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+1677897153497	geckodriver	INFO	Listening on 127.0.0.1:54050
+1677897153507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port"  ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile7WMUyM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677897153860	Marionette	INFO	Marionette enabled
+1677897153927	Marionette	INFO	Listening on port 54054
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54054
+WebDriver BiDi listening on ws://127.0.0.1:54051
+1677897154409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile7WMUyM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54051/devtools/browser/45631432-1c53-496e-a58c-a0d5a9114f40
+[2023-03-04T02:32:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:32:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:32:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:32:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 6993 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-04T02:32:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:32:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:32:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:32:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 4190 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 460 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677897178250	Marionette	INFO	Stopped listening on port 54054
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 13: TypeError: can't access dead object
+1677897292914	geckodriver	INFO	Listening on 127.0.0.1:54121
+1677897293448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "user-agent=Mozilla/5.0 (M ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilegHdko2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677897293773	Marionette	INFO	Marionette enabled
+1677897293828	Marionette	INFO	Listening on port 54127
+Read port: 54127
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54122
+1677897294387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofilegHdko2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54122/devtools/browser/6214fe37-e32f-4cc4-973a-3f3481fcf230
+1677897298038	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-04T02:34:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:34:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:34:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 3990 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 810 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-04T02:35:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 5126, MediaDecoderStateMachine #1] WARNING: Decoder=128124f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 5126, MediaDecoderStateMachine #1] WARNING: Decoder=128124f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 5126, MediaDecoderStateMachine #1] WARNING: Decoder=1274e1100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 5126, MediaDecoderStateMachine #1] WARNING: Decoder=1274e1100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 5126, MediaDecoderStateMachine #1] WARNING: Decoder=11491ea00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 5126, MediaDecoderStateMachine #1] WARNING: Decoder=11491ea00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 5126, MediaDecoderStateMachine #1] WARNING: Decoder=12f358100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 5126, MediaDecoderStateMachine #1] WARNING: Decoder=12f358100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[2023-03-04T02:35:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:35:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:35:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:35:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 4424 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677897328636	Marionette	INFO	Stopped listening on port 54127
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1677898629375	geckodriver	INFO	Listening on 127.0.0.1:54447
+1677898629499	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "user-agent=Mozilla/5.0 (M ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile4sdZcj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677898630118	Marionette	INFO	Marionette enabled
+1677898630256	Marionette	INFO	Listening on port 54466
+Read port: 54466
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54448
+1677898630527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofile4sdZcj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54448/devtools/browser/493ca6a2-e545-4307-a72a-a4358bdaef21
+1677898633789	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-04T02:57:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 5310 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-04T02:57:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 3691 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 1678 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677898654622	Marionette	INFO	Stopped listening on port 54466
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+1677898664797	geckodriver	INFO	Listening on 127.0.0.1:54546
+1677898664811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "user-agent=Mozilla/5.0 (M ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileMJCQB4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677898665285	Marionette	INFO	Marionette enabled
+1677898665359	Marionette	INFO	Listening on port 54550
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54550
+WebDriver BiDi listening on ws://127.0.0.1:54547
+1677898665877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ds/1gc2g5316rn11p6rh4jrhjvc0000gn/T/rust_mozprofileMJCQB4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54547/devtools/browser/a1f1ced8-7c31-4b9d-89ee-e56013da2b95
+1677898668856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-03-04T02:57:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 4672 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-03-04T02:57:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-03-04T02:57:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 4252 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 164 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677898689531	Marionette	INFO	Stopped listening on port 54550
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=TcXREjcKoyo, line 12: TypeError: can't access dead object
